@@ -1,5 +1,5 @@
 const People = artifacts.require('People');
 
-module.exports = function (deployer) {
+module.exports = (deployer) => {
     deployer.deploy(People);
 };

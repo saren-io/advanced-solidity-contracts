@@ -6,3 +6,7 @@ gen
 
 # Build files
 build
+
+# Node
+package-lock.json
+node_modules
